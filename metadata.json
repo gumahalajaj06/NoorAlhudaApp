@@ -1,0 +1,6 @@
+{
+  "name": "نور الهدى",
+  "description": "تطبيق نور الهدى الإسلامي المتكامل للقرآن الكريم بالرسم العثماني والمصحف المدني والأذكار والمسبحة ومواقيت الصلاة والقبلة والتلاوة الصوتية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
